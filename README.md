@@ -56,14 +56,7 @@ PC6──Fa0/8──┘  //                     └──Fa0/8──PC12
               //                            \\
          [SW-CORE L3]──Po2 (Fa0/3+Fa0/4)──[SW-B]
 ```
-
-<p align="center">
-  <img width="1920" height="1080" alt="Capture d’écran du 2026-07-02 21-08-31" src="https://github.com/user-    attachments/assets/c2579d4d-4df8-482e-b5a7-57710eda8a19" />  
-  <br>
-
-  <em>Capture Cisco Packet Tracer — Topologie TechHub Bénin</em>
-</p>
-
+<img width="1920" height="1080" alt="Capture d’écran du 2026-07-02 21-08-31" src="https://github.com/user-attachments/assets/c2579d4d-4df8-482e-b5a7-57710eda8a19" />
 ---
 
 ## 🔌 Câblage complet
